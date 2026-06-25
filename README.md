@@ -114,17 +114,3 @@ I have worked with multiple programming languages, including but not limited to:
 - Better ways to combine engineering discipline with product delivery
 
 ---
-
-## Languages & Frameworks & Tools
-
-```markdown
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
-![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=openjdk&style=social)&nbsp;&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-```
