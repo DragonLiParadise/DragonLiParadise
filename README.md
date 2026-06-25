@@ -1,41 +1,130 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm **Dragon.Li**, a 29-year-old **Senior Software Engineer** based in Chengdu, China 🇨🇳, with deep expertise in backend systems architecture and emerging focus on frontend data processing architectures.
+I'm **Dragon.Li**, a 30-year-old software engineer born in 1996, based in Chengdu, China 🇨🇳.
 
-### 💡 Professional Profile
-- 🎯 **Clean Code Craftsman** - Extensively studied refactoring principles and design patterns through numerous authoritative texts, translating theory into practice
-- 🏗️ **Architecture Specialist** - Proven track record in architecting and refactoring large-scale enterprise systems, with comprehensive knowledge of distributed architectures, microservices, Event-Driven Architecture (EDA), CQRS, and Domain-Driven Design (DDD)
-- 🚀 **Full-Stack Architect** - Primary focus on backend engineering with recent specialization in frontend data processing architectures and state management patterns
-- 📚 **Continuous Learner** - Deep theoretical foundation through extensive study of refactoring literature (Fowler, Kerievsky) and design pattern classics (GoF, POSA)
+I have been working as a programmer for **9 years**, with long-term experience in software engineering, system refactoring, architectural design, and full-stack application development. I’m the kind of engineer who genuinely enjoys diving deep into technology — not only using tools, but also understanding the ideas, principles, trade-offs, and evolution behind them.
 
-### 🛠️ Technical Arsenal
-- **Core Languages**: Golang, Java, PHP (production-grade expertise)
-- **Framework Mastery**: Spring, Laravel, Symfony, Gin - power user
-- **Data Engineering**: MySQL, Redis with expertise in data modeling, query optimization, and caching strategies
-- **Frontend Architecture**: Recent focus on state management, data flow patterns, and reactive architectures (TypeScript, Node.js)
-- **DevOps & Tools**: Git workflows, CI/CD pipelines, containerization
-- **Architectural Patterns**: Hands-on experience with microservices, event sourcing, hexagonal architecture, and clean architecture
+Over the years, I have spent a great deal of time studying and practicing **refactoring**, **design patterns**, and **software architecture**, drawing inspiration from many classic and modern books from both Chinese and international authors. I believe great software is not created by accidental complexity, but by continuous thinking, careful modeling, and disciplined improvement.
 
-### 🏆 Key Achievements
-- 💼 Led multiple large-scale system refactoring initiatives from legacy monoliths to modern architectures
-- 🔧 Designed and implemented architectural solutions for high-concurrency, mission-critical systems
-- 📖 Applied design patterns and refactoring techniques from extensive theoretical study to real-world production systems
-- 🌐 Bridging backend robustness with frontend data processing excellence
+---
 
-### Languages & Frameworks & Tools
-![Java](https://img.shields.io/badge/-Java-black?logo=php&style=social)&nbsp;&nbsp;
-![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
-![Php](https://img.shields.io/badge/-Php-black?logo=php&style=social)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&style=social)&nbsp;&nbsp;
-![NodeJs](https://img.shields.io/badge/-Nodejs-black?logo=Nodejs&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
+## 💡 Professional Profile
 
-### 🌟 Engineering Philosophy
-> *"Architecture is not about grand designs on whiteboards—it's about making countless small, informed decisions that compound into maintainable, evolvable systems. Every refactoring is an opportunity to align code with business reality."*
+- 🎯 **Technology-Driven Engineer**  
+  Passionate about deeply studying technologies, engineering principles, and architectural thinking, with a strong preference for understanding “why” behind “how”.
 
-### 📚 Current Focus
-- Exploring modern frontend data processing architectures and reactive patterns
-- Bridging the gap between backend system design and frontend state management
+- 🧱 **Refactoring & Design Patterns Practitioner**  
+  Deeply interested in refactoring, design patterns, clean code, and maintainable software design. I have read and practiced ideas from many influential works in software engineering.
+
+- 🏗️ **Architecture-Oriented Developer**  
+  Experienced in system design, legacy system refactoring, application architecture, and complex business modeling. In some projects, I also take on architectural responsibilities.
+
+- 🚀 **Full-Stack Application Developer**  
+  My previous work focused more on backend development, but now I’m involved in broader application development without being strictly limited to frontend or backend roles — perhaps “full-stack” is the most accurate label.
+
+- 📚 **Continuous Learner**  
+  I enjoy exploring new programming languages, frameworks, architectural styles, and engineering practices, while constantly connecting theory with real-world production experience.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages
+
+I have worked with multiple programming languages, including but not limited to:
+
+- **TypeScript**
+- **Node.js**
+- **Golang**
+- **PHP**
+- **Java**
+- **Rust**
+
+### Backend & Application Development
+
+- API design and service development
+- Business system modeling
+- Application architecture design
+- Legacy system refactoring
+- Domain modeling and modularization
+- High-concurrency and distributed system practices
+
+### Architecture & Engineering Practices
+
+- Refactoring
+- Design Patterns
+- Clean Code
+- Domain-Driven Design
+- Layered Architecture
+- Hexagonal Architecture
+- Microservices
+- Event-Driven Architecture
+- CQRS
+- System decomposition and evolution
+
+### Data & Infrastructure
+
+- MySQL
+- Redis
+- Caching strategies
+- Query optimization
+- Data modeling
+- Git workflows
+- CI/CD practices
+- Containerization basics
+
+### Frontend & Full-Stack Development
+
+- TypeScript application development
+- Node.js ecosystem
+- Frontend data processing architecture
+- State management
+- Reactive programming patterns
+- Bridging backend architectural thinking with frontend complexity
+
+---
+
+## 🏆 Key Highlights
+
+- 💼 9 years of professional programming experience
+- 🔧 Long-term practice in refactoring, design patterns, and architecture
+- 🏗️ Experience in both backend systems and full-stack application development
+- 📖 Strong theoretical foundation built from extensive reading and real-world practice
+- 🚀 Able to work across frontend, backend, and architectural layers depending on project needs
+- 🧠 Passionate about turning complex business requirements into maintainable and evolvable software systems
+
+---
+
+## 🌟 Engineering Philosophy
+
+> *Good architecture is not about drawing perfect diagrams in advance.  
+> It is about making continuous, informed decisions that allow software to evolve with business reality.*
+>
+> *Refactoring is not just code cleanup — it is a way to keep the system aligned with understanding.*
+
+---
+
+## 📚 Current Focus
+
+- Full-stack application architecture
+- Frontend data processing and state management
 - Applying backend architectural principles to frontend complexity
+- Rust and modern systems programming ideas
+- Long-term maintainability of business systems
+- Better ways to combine engineering discipline with product delivery
+
+---
+
+## Languages & Frameworks & Tools
+
+```markdown
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
+![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=openjdk&style=social)&nbsp;&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+```
